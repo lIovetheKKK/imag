@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <meta property="og:image" content="https://cdn.discordapp.com/attachments/535304677961629696/973392715746258985/85FEE920-7D49-4399-A1A5-A671F8212698.gif">
+        <meta property="og:type" content="video.other">
+        <meta property="og:video:url" content="https://cdn.discordapp.com/attachments/690269335742054401/973238485341335592/lv_0_20220217233332.mp4">
+        <meta property="og:video:height" content="202">
+        <meta property="og:video:width" content="250">
+    </head>
+    <body>
+        <img src="https://simonbeans.rf.gd/main.html">
+    </body>
+</html>
